@@ -1,0 +1,95 @@
+<% cache [I18n.locale, current_pricing_options, @product] do %>
+  <div data-hook="product_show" itemscope itemtype="http://schema.org/Product">
+    <% @body_id = 'product-details' %>
+
+    <div class="columns six alpha" data-hook="product_left_part">
+      <div class="row" data-hook="product_left_part_wrap">
+
+        <div id="product-images" data-hook="product_images">
+          <div id="main-image" data-hook>
+            <%= render partial: 'image' %>
+          </div>
+          <div id="thumbnails" data-hook>
+            <%= render partial: 'thumbnails' %>
+          </div>
+        </div>
+
+        <div data-hook="product_properties">
+          <%= render partial: 'properties' %>
+        </div>
+
+        <div data-hook="promotions">
+          <%= render partial: 'promotions' %>
+        </div>
+
+      </div>
+    </div>
+
+    <div class="columns ten omega" data-hook="product_right_part">
+      <div class="row" data-hook="product_right_part_wrap">
+
+        <div id="product-description" data-hook="product_description">
+
+          <h1 class="product-title" itemprop="name"><%= @product.name %></h1>
+
+          <div itemprop="description" data-hook="description">
+            <%= product_description(@product) rescue t('spree.product_has_no_description') %>
+          </div>
+
+          <div id="cart-form" data-hook="cart_form">
+            <%= render partial: 'cart_form' %>
+          </div>
+
+        </div>
+
+        <%= render partial: 'taxons' %>
+
+      </div>
+    </div>
+
+  </div>
+<% end %>
+
+
+/*ここからはオリジナルやで〜
+
+<% provide(:title, 'Sign up') %>
+<center><h1>Sign up</h1></center>
+ 
+<%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+ 
+        <div class="field">
+          <%= f.label :name, class: "control-label" %>
+          <%= f.text_field :name, autofocus: true, class: "form-control" %>
+        </div>
+ 
+        <div class="field">
+          <%= f.label :email, class: "control-label" %>
+          <%= f.email_field :email, autofocus: true, class: "form-control" %>
+        </div>
+ 
+        <div class="field">
+          <%= f.label :password, class: "control-label" %>
+          <% if @validatable %>
+          <em>(<%= @minimum_password_length %> characters minimum)</em>
+          <% end %>
+          <%= f.password_field :password, autocomplete: "off", class: "form-control" %>
+        </div>
+ 
+        <div class="field">
+          <%= f.label :password_confirmation, class: "control-label" %>
+          <%= f.password_field :password_confirmation, autocomplete: "off", class: "form-control" %>
+        </div>
+    </div>
+  </div>
+ 
+  <div class="row">
+    <div class="col-md-3 col-md-offset-3">
+        <div class="actions">
+          <%= f.submit "Create my account", class: "btn btn-lg btn-primary" %>
+        </div>
+    </div>
+  </div>
+<% end %>

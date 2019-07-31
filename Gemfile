@@ -42,6 +42,9 @@ gem 'solidus_auth_devise'
 gem 'mini_racer'
 
 
+gem 'solidus_blogging', github: 'digitalreflow/solidus-blogging'
+
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
