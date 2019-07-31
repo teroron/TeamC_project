@@ -1,5 +1,7 @@
 <% content_for :sidebar do %>
  <div data-hook="homepage_sidebar_navigation">
+ <a href="https://www.facebook.com/share.php?url=<%= request.url %>" rel="nofollow" target="_blank"><%= image_tag 'facebook-icon2.png'%></a>
+
     <%= render partial: 'spree/shared/taxonomies' %>
     <img src="<%= asset_path "background_image_dayo.jpg" %>" />
     <div style="background:url(<%= asset_path "background_image_dayo.jpg" %>)" />
