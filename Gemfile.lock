@@ -1,3 +1,13 @@
+GIT
+  remote: https://github.com/digitalreflow/solidus-blogging.git
+  revision: 4a160afaa51fe4f97c174fab49202ed3c33e47dc
+  specs:
+    solidus_blogging (1.1.0)
+      acts-as-taggable-on
+      deface (~> 1)
+      solidus (> 1.0)
+      solidus_auth_devise
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -47,6 +57,8 @@ GEM
       i18n (>= 0.7, < 2)
       minitest (~> 5.1)
       tzinfo (~> 1.1)
+    acts-as-taggable-on (6.0.0)
+      activerecord (~> 5.0)
     acts_as_list (0.9.19)
       activerecord (>= 3.0)
     addressable (2.6.0)
@@ -92,6 +104,11 @@ GEM
     coffee-script-source (1.12.2)
     concurrent-ruby (1.1.5)
     crass (1.0.4)
+    deface (1.5.0)
+      nokogiri (>= 1.6)
+      polyglot
+      rails (>= 4.1)
+      rainbow (>= 2.1.0)
     devise (4.6.2)
       bcrypt (~> 3.0)
       orm_adapter (~> 0.1)
@@ -177,6 +194,7 @@ GEM
     paranoia (2.4.2)
       activerecord (>= 4.0, < 6.1)
     pg (1.1.4)
+    polyglot (0.3.5)
     public_suffix (3.1.1)
     puma (3.12.1)
     rack (2.0.7)
@@ -206,6 +224,7 @@ GEM
       method_source
       rake (>= 0.8.7)
       thor (>= 0.19.0, < 2.0)
+    rainbow (3.0.0)
     rake (12.3.3)
     ransack (2.1.1)
       actionpack (>= 5.0)
@@ -369,6 +388,7 @@ DEPENDENCIES
   selenium-webdriver
   solidus
   solidus_auth_devise
+  solidus_blogging!
   spring
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)

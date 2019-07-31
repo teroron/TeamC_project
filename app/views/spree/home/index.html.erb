@@ -1,0 +1,16 @@
+<% content_for :sidebar do %>
+ <div data-hook="homepage_sidebar_navigation">
+    <%= render partial: 'spree/shared/taxonomies' %>
+    <img src="<%= asset_path "background_image_dayo.jpg" %>" />
+    <div style="background:url(<%= asset_path "background_image_dayo.jpg" %>)" />
+
+  </div>
+<% end %>
+
+<div data-hook="homepage_products">
+  <% cache(cache_key_for_products) do %>
+    <h1>てろろんマーケット</h1>
+    <%= render partial: 'spree/shared/products', locals: { products: @products } %>
+
+  <% end %>
+</div>
