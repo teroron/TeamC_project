@@ -23,8 +23,10 @@
         </div>
        
 
-        <h1>Title: <%= @comment.try(:body)  %></h1>  
-    
+      
+        <h1>Title: <%= @comment = try(:body)  %></h1>  
+     
+
 
       </div>
     </div>
@@ -45,6 +47,21 @@
           </div>
 
         </div>
+        　     <html lang="ja">
+        <head>
+        <meta charset="UTF-8">
+        <title>コメント欄</title>
+        </head>
+        <body>
+        <h1>コメント欄</h1>
+        <section>
+            <form action="" method="post">
+
+                <input type="text" name="text" value=""><br>
+                <input type="submit" value="コメントする">
+            </form>
+        </section>
+
 
         <%= render partial: 'taxons' %>
 
