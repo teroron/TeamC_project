@@ -24,4 +24,16 @@
   <div data-hook="homepage_products">
     <%= render partial: 'spree/shared/products', locals: { products: @products, taxon: @taxon } %>
   </div>
+
+  <% @comments.each do |comments| %>
+    <div style="width:500px;border:1px solid #ccc;margin:5px">
+      <div style="float:left">
+        <h2 ><%= products.title %></h2>
+      </div>
+      <div style="clear:both">
+        <pre><%= comments.content %></pre>
+ +      コメント（<%= comments.count %>）
+      </div>
+    </div>
+  <% end %>
 <% end %>
