@@ -33,7 +33,7 @@ Spree.config do |config|
   # Frontend:
 
   # Custom logo for the frontend
-  # config.logo = "logo/solidus.svg"
+  config.logo = "logo/teroron_logo_153x052.jpg"
 
   # Template to use when rendering layout
   # config.layout = "spree/layouts/spree_application"
