@@ -1,0 +1,128 @@
+[
+    {
+        "client_msg_id": "82212feb-7bac-467c-af4c-36a98b18def0",
+        "type": "message",
+        "text": "Access denied for user 'root'@'localhost' の後に、\n\n$ sudo su\n$ mysql -u root -p\nPWを聞かれるのでEnter\n$ update mysql.user set plugin = 'mysql_native_password' where User='root';\n$ FLUSH PRIVILEGES;\n$ exit;\n\n$ rake db:create:all\n$ rake db:migrate\nまでやっとできたのですが、、、\n\n・ActiveRecord::PendingMigrationError\n・Sprockets::FileNotFound in Spree::Home#index\nのエラー地獄です。。。",
+        "user": "ULATBB8UU",
+        "ts": "1563809820.002700",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "gff752e34c77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ff752e34c7729ef12ba2a66d9cddb9ea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "a1923ht",
+            "display_name": "a1923ht",
+            "team": "TLARLB0A0",
+            "name": "a1923ht",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7d145b3c-31f3-4726-934c-1b3c1c77b587",
+        "type": "message",
+        "text": "一応SolidusをDevelopersGuideを見ながらローカルにインストールしました。まだ編集は試していませんが、参考Youtubeがあるので多少の編集はできる可能性があります。同時並行で進めましょう！\nこのままだと今回の着地点商品画像とコメントの埋め込みだけになりそうですね。。。",
+        "user": "ULATBB8UU",
+        "ts": "1563811223.011000",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "gff752e34c77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ff752e34c7729ef12ba2a66d9cddb9ea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "a1923ht",
+            "display_name": "a1923ht",
+            "team": "TLARLB0A0",
+            "name": "a1923ht",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a0cfb913-adf7-4f49-8d01-9049ccf08d12",
+        "type": "message",
+        "text": "お疲れ様です。DB絡みでエラーが取れませんね。。\nSolidusのをローカルにインストールされたということで、クライアント側のブラウザは\n立ち上がっているのでしょうか？",
+        "user": "ULD7AUJCX",
+        "ts": "1563835973.003600",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "B04B28FC-174C-4119-BB0D-F2741DFE5FF0",
+        "type": "message",
+        "text": "現状でいうと加藤さんがherokuにアップしてる状況と同じです。ただ今回は見た感じ最低限のファイル数且つYouTubeを見ながらやったので編集できるかなと考えてます！",
+        "user": "ULATBB8UU",
+        "ts": "1563837725.007800",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "gff752e34c77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ff752e34c7729ef12ba2a66d9cddb9ea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "a1923ht",
+            "display_name": "a1923ht",
+            "team": "TLARLB0A0",
+            "name": "a1923ht",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3EB8FA8F-04DA-4622-9AC3-67235D9D22CD",
+        "type": "message",
+        "text": "ただまだ分からないので、そちらも継続するかMySQL ではない他のやつを探すかお願いしたいです！",
+        "user": "ULATBB8UU",
+        "ts": "1563837813.010300",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "gff752e34c77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ff752e34c7729ef12ba2a66d9cddb9ea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "a1923ht",
+            "display_name": "a1923ht",
+            "team": "TLARLB0A0",
+            "name": "a1923ht",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "409d5de8-bf5b-4659-81da-f39f5a905404",
+        "type": "message",
+        "text": "solidus版で、herokuアップと同じものがローカル環境でできているということで了解です。\npotepanecアプリのMySQLの他DB置き換えも、MySQL以上にエラー対処が続く可能性もあるので、\nrails_enpit版（posgreSQL版）をベースとする案も睨みながら検討します。",
+        "user": "ULD7AUJCX",
+        "ts": "1563839756.024500",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

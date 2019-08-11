@@ -1,0 +1,110 @@
+[
+    {
+        "id": "CLARLBLQL",
+        "name": "アプリ開発",
+        "created": "1562839041",
+        "creator": "UL4V5EK1P",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "UL000FESX",
+            "UL4V5EK1P",
+            "ULATBB8UU",
+            "ULD79PWT1",
+            "ULD7AUJCX"
+        ],
+        "pins": [
+            {
+                "id": "1562843405.002600",
+                "type": "C",
+                "created": 1563007867,
+                "user": "UL4V5EK1P",
+                "owner": "UL4V5EK1P"
+            }
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    },
+    {
+        "id": "CLB9XTWE4",
+        "name": "random",
+        "created": "1562839041",
+        "creator": "UL4V5EK1P",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "UL000FESX",
+            "UL4V5EK1P",
+            "ULATBB8UU",
+            "ULD79PWT1",
+            "ULD7AUJCX"
+        ],
+        "topic": {
+            "value": "仕事に関係ない雑談と給湯室でのおしゃべり",
+            "creator": "UL4V5EK1P",
+            "last_set": "1562839041"
+        },
+        "purpose": {
+            "value": "仕事に関係ないペチャクチャ、ワイワイ、ざわざわといったチャンネルは、仕事に関係したチャンネルとは別にしておいたほうがいいです。",
+            "creator": "UL4V5EK1P",
+            "last_set": "1562839041"
+        }
+    },
+    {
+        "id": "CLBAC9VAR",
+        "name": "general",
+        "created": "1562839041",
+        "creator": "UL4V5EK1P",
+        "is_archived": false,
+        "is_general": true,
+        "members": [
+            "UL000FESX",
+            "UL4V5EK1P",
+            "ULATBB8UU",
+            "ULD79PWT1",
+            "ULD7AUJCX"
+        ],
+        "topic": {
+            "value": "全社的なアナウンスと業務関連の事項",
+            "creator": "UL4V5EK1P",
+            "last_set": "1562839041"
+        },
+        "purpose": {
+            "value": "このチャンネルはワークスペース全体のコミュニケーションと社内アナウンス用です。全メンバーがこのチャンネルに参加しています。",
+            "creator": "UL4V5EK1P",
+            "last_set": "1562839041"
+        }
+    },
+    {
+        "id": "CLX2NRSAG",
+        "name": "振り返り",
+        "created": "1564570586",
+        "creator": "UL4V5EK1P",
+        "is_archived": false,
+        "is_general": false,
+        "members": [
+            "UL000FESX",
+            "UL4V5EK1P",
+            "ULATBB8UU",
+            "ULD7AUJCX"
+        ],
+        "topic": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        },
+        "purpose": {
+            "value": "",
+            "creator": "",
+            "last_set": "0"
+        }
+    }
+]

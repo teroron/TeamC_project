@@ -1,0 +1,39 @@
+[
+    {
+        "type": "message",
+        "text": "川村です。\n販売取り扱い品目のテーブル（案）を作りながら、ベタ書きhtmlの品目ページ（２０品目）を作ってみました。.zipにいれてあります。いかがでしょう？",
+        "files": [
+            {
+                "id": "FLERMTR4Y",
+                "created": 1563205002,
+                "timestamp": 1563205002,
+                "name": "Teroron_TrialParts_20190716.zip",
+                "title": "Teroron_TrialParts_20190716.zip",
+                "mimetype": "application\/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "UL000FESX",
+                "editable": false,
+                "size": 5161718,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TLARLB0A0-FLERMTR4Y\/teroron_trialparts_20190716.zip?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TLARLB0A0-FLERMTR4Y\/download\/teroron_trialparts_20190716.zip?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "permalink": "https:\/\/teamteroron.slack.com\/files\/UL000FESX\/FLERMTR4Y\/teroron_trialparts_20190716.zip",
+                "permalink_public": "https:\/\/slack-files.com\/TLARLB0A0-FLERMTR4Y-0964a08b5b",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UL000FESX",
+        "display_as_bot": false,
+        "ts": "1563205002.002000",
+        "client_msg_id": "58cb037a-7207-496b-be47-fe3c865a9c78"
+    }
+]

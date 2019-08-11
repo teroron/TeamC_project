@@ -1,0 +1,317 @@
+[
+    {
+        "client_msg_id": "94743b97-42bb-4462-b22e-a9c97e86f09b",
+        "type": "message",
+        "text": "指田さん\n下の方法で仮想環境と共有化できます。",
+        "user": "UL4V5EK1P",
+        "ts": "1563007917.000700",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "reactions": [
+            {
+                "name": "peach",
+                "users": [
+                    "ULD79PWT1"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0fa69870-3f9d-410d-8567-188d7493efbb",
+        "type": "message",
+        "text": "<https:\/\/qiita.com\/centipede\/items\/5b3cb4965618993cefec>",
+        "user": "UL4V5EK1P",
+        "ts": "1563007921.000900",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "Vagrant 事始め 05 - 共有フォルダを設定する - Qiita",
+                "title_link": "https:\/\/qiita.com\/centipede\/items\/5b3cb4965618993cefec",
+                "text": "ローカルマシンと仮想マシン間でファイルを便利にやりとりするために、共有フォルダの設定をします。 ## プラグインの確認をする まずは共有フォルダを利用するのに必要なプラグインが、Vagrant に設定されているかを確認します。 ...",
+                "fallback": "Qiita: Vagrant 事始め 05 - 共有フォルダを設定する - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/centipede\/items\/5b3cb4965618993cefec",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/centipede\/items\/5b3cb4965618993cefec"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e5b89579-0cb7-4dac-907b-650d55c44904",
+        "type": "message",
+        "text": "頑張ればこれくらいはカスタマイズできるみたいだけど、どこいじるかさっぱりわからない。。。",
+        "user": "UL4V5EK1P",
+        "ts": "1563008839.001700",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ce8a63c4-2ebe-466a-b085-d98668075f81",
+        "type": "message",
+        "text": "<https:\/\/afternoon-depths-76216.herokuapp.com\/potepan\/index.html>",
+        "user": "UL4V5EK1P",
+        "ts": "1563008853.001900",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e8d3eaec-104b-4281-a6ea-541bdf3ccce4",
+        "type": "message",
+        "text": "↑\nこれのgithub\n<https:\/\/github.com\/kodaionodera\/potepanec>",
+        "user": "UL4V5EK1P",
+        "ts": "1563008964.002400",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "kodaionodera\/potepanec",
+                "title_link": "https:\/\/github.com\/kodaionodera\/potepanec",
+                "text": "SolidusというGemを用いてECサイトの構築を行いました。. Contribute to kodaionodera\/potepanec development by creating an account on GitHub.",
+                "fallback": "GitHub: kodaionodera\/potepanec",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/43128284?s=400&v=4",
+                "from_url": "https:\/\/github.com\/kodaionodera\/potepanec",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/kodaionodera\/potepanec"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "cd6a70b9-1dde-4061-b2dc-4e49fe1b8eac",
+        "type": "message",
+        "text": "ブログ機能ならすぐできそう\n<http:\/\/elsur.xyz\/slidus-blog>",
+        "user": "UL4V5EK1P",
+        "ts": "1563076186.000600",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "リーテラトバリタブログ",
+                "title": "RailsのECオープンソース「Solidus」に「solidus-blogging」を使ってブログ機能を搭載する | | リーテラトバリタブログ",
+                "title_link": "http:\/\/elsur.xyz\/slidus-blog",
+                "text": "以前のエントリーで書いたRails製のECオープンソース「Solidus」。これに簡易なブログ投稿機能を追加するGem「solidus-blogging」を導入してみました。ブログを付け足すことでサイトのコンテンツ充実を図ります。",
+                "fallback": "リーテラトバリタブログ: RailsのECオープンソース「Solidus」に「solidus-blogging」を使ってブログ機能を搭載する | | リーテラトバリタブログ",
+                "thumb_url": "http:\/\/elsur.xyz\/wp-content\/uploads\/2017\/01\/solidus-logo-1.gif",
+                "ts": 1484416980,
+                "from_url": "http:\/\/elsur.xyz\/slidus-blog",
+                "thumb_width": 434,
+                "thumb_height": 200,
+                "id": 1,
+                "original_url": "http:\/\/elsur.xyz\/slidus-blog"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d4540fe2-07c9-4f76-abb5-e94f4a631cd5",
+        "type": "message",
+        "text": "通過の変更は上手く行かなかった。。。\n<https:\/\/qiita.com\/yuskamiya\/items\/067b746f7a520a6729e9>",
+        "user": "UL4V5EK1P",
+        "ts": "1563076236.001100",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "Solidusでデフォルト通貨を日本円にする - Qiita",
+                "title_link": "https:\/\/qiita.com\/yuskamiya\/items\/067b746f7a520a6729e9",
+                "text": "Solidusの前身であるSpreeでは、デフォルト通貨の設定はGUIのAdminコンソールから自由に設定することができました。 しかし、通貨の設定を&amp;quot;Spree::Money preferences&amp;quot;から[Ru...",
+                "fallback": "Qiita: Solidusでデフォルト通貨を日本円にする - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/yuskamiya\/items\/067b746f7a520a6729e9",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/yuskamiya\/items\/067b746f7a520a6729e9"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "88eb854c-5c24-4a54-b521-9fe5634891de",
+        "type": "message",
+        "text": "ロゴの変更は出来るが、何故かログインボタンが消えてしまう（サイズの問題？）\n<https:\/\/guides.spreecommerce.org\/developer\/customization\/view.html#template-replacements>",
+        "user": "UL4V5EK1P",
+        "ts": "1563076364.002200",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Spree Commerce Documentation",
+                "title": "View Customization | developer | Spree Commerce Documentation",
+                "title_link": "https:\/\/guides.spreecommerce.org\/developer\/customization\/view.html#template-replacements",
+                "text": "View customization allows you to extend or replace any view within a Spree application bot for the Customer Storefront (Frontend) and Admin Panel…",
+                "fallback": "Spree Commerce Documentation: View Customization | developer | Spree Commerce Documentation",
+                "from_url": "https:\/\/guides.spreecommerce.org\/developer\/customization\/view.html#template-replacements",
+                "service_icon": "https:\/\/guides.spreecommerce.org\/favicon.ico",
+                "id": 1,
+                "original_url": "https:\/\/guides.spreecommerce.org\/developer\/customization\/view.html#template-replacements"
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FLDU7E493",
+                "created": 1563076382,
+                "timestamp": 1563076382,
+                "name": "スクリーンショット 2019-07-14 12.51.12.png",
+                "title": "スクリーンショット 2019-07-14 12.51.12.png",
+                "mimetype": "image\/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "UL4V5EK1P",
+                "editable": false,
+                "size": 43532,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TLARLB0A0-FLDU7E493\/____________________________2019-07-14_12.51.12.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TLARLB0A0-FLDU7E493\/download\/____________________________2019-07-14_12.51.12.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FLDU7E493-492a706205\/____________________________2019-07-14_12.51.12_64.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FLDU7E493-492a706205\/____________________________2019-07-14_12.51.12_80.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FLDU7E493-492a706205\/____________________________2019-07-14_12.51.12_360.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_360_w": 360,
+                "thumb_360_h": 48,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FLDU7E493-492a706205\/____________________________2019-07-14_12.51.12_480.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_480_w": 480,
+                "thumb_480_h": 64,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FLDU7E493-492a706205\/____________________________2019-07-14_12.51.12_160.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FLDU7E493-492a706205\/____________________________2019-07-14_12.51.12_720.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_720_w": 720,
+                "thumb_720_h": 96,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FLDU7E493-492a706205\/____________________________2019-07-14_12.51.12_800.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 107,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FLDU7E493-492a706205\/____________________________2019-07-14_12.51.12_960.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_960_w": 960,
+                "thumb_960_h": 128,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FLDU7E493-492a706205\/____________________________2019-07-14_12.51.12_1024.png?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 137,
+                "image_exif_rotation": 1,
+                "original_w": 1960,
+                "original_h": 262,
+                "permalink": "https:\/\/teamteroron.slack.com\/files\/UL4V5EK1P\/FLDU7E493\/____________________________2019-07-14_12.51.12.png",
+                "permalink_public": "https:\/\/slack-files.com\/TLARLB0A0-FLDU7E493-7a2bf4ef95",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UL4V5EK1P",
+        "display_as_bot": false,
+        "ts": "1563076384.002400",
+        "client_msg_id": "81356853-1177-40fc-a9d4-3ceab13e3ad1"
+    }
+]

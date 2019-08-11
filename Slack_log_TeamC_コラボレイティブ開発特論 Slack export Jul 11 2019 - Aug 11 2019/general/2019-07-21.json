@@ -1,0 +1,102 @@
+[
+    {
+        "client_msg_id": "4a33746a-eaee-42b2-8e44-57bedf197b12",
+        "type": "message",
+        "text": "ブラウザ側での接続エラーから、なかなか抜け出せない状況です。\nCan't connect to local MySQL server through socket '\/tmp\/mysql.sock' (111)表示の\n最後のエラーコードは順次変わり、対象のエラーは潰しているものとは思いますが。\nもしどなたか、\n・potepanecでの指定版数に合わせ、gem install rails -v5.2.1で、railsをまずインストール　⇒　git　clone\n・Gemlock指定のbundle版数が最も古いため、そちらに合わせsudo gem install bundler -v 1.17.1で、bundleをインストール\nなどのお試しで、別の結果を得られる方がいらっしゃいましたら、お知らせください。",
+        "user": "ULD7AUJCX",
+        "ts": "1563697834.004000",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8FF04735-67D8-4BAB-9786-8306436A4D8D",
+        "type": "message",
+        "text": "これ全部試してもエラーとなると、やっかいですね。\n<https:\/\/qiita.com\/Terryy\/items\/0238f70c91f56486dcae>\n",
+        "user": "UL4V5EK1P",
+        "ts": "1563698964.005200",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "Qiita",
+                "title": "localhostでMySQLが起動しない（Can't connect to local MySQL server through socket '\/tmp\/mysql.sock' (2)） - Qiita",
+                "title_link": "https:\/\/qiita.com\/Terryy\/items\/0238f70c91f56486dcae",
+                "text": "どうやら調べてみると、この事例が結構多いようなので、自分の事例を共有。 ある日突然、アプリケーションをlocalhostで開くとエラーが出ました。 ``` Can&amp;#39;t connect to local MySQL serv...",
+                "fallback": "Qiita: localhostでMySQLが起動しない（Can't connect to local MySQL server through socket '\/tmp\/mysql.sock' (2)） - Qiita",
+                "thumb_url": "https:\/\/cdn.qiita.com\/assets\/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png",
+                "from_url": "https:\/\/qiita.com\/Terryy\/items\/0238f70c91f56486dcae",
+                "thumb_width": 200,
+                "thumb_height": 200,
+                "service_icon": "https:\/\/cdn.qiita.com\/assets\/favicons\/public\/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png",
+                "id": 1,
+                "original_url": "https:\/\/qiita.com\/Terryy\/items\/0238f70c91f56486dcae"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2c8bbcf5-463a-422e-a798-2bb07ff33180",
+        "type": "message",
+        "text": "エラー番号も、対処の都度　(2)　⇒　(13)　⇒　(111)　と番号が遷移するだけで、なかなかやっかいです。",
+        "user": "ULD7AUJCX",
+        "ts": "1563699149.007600",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3065c3da-6233-4f39-88d3-c1b20a66fa40",
+        "type": "message",
+        "text": "昨夜展開できずすいませんでしたが、\n\/etc\/mysql\/my.cnf の更新と、ソケット場所（\/run\/mysqld\/mysqld.sock）の登録で、\nAccess denied for user 'root'@'localhost' (using password: NO)のエラーが残りましたが、\nこちらのエラーもなかなか取れません。エラーなしでブラウザ側が立ち上がって\nいる方がもしいらっしゃいましたら、展開くださいませ。（夕方、別の手立ても当たってみます。。）",
+        "user": "ULD7AUJCX",
+        "ts": "1563744908.009400",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

@@ -1,0 +1,209 @@
+[
+    {
+        "client_msg_id": "184812F2-5588-4895-90B2-46200CF6AB40",
+        "type": "message",
+        "text": "おはようございます。\n先日、開発環境は整ったとか適当なことを申し上げたので、私がやったやり方をご説明します。\n\n上の方のリンクに書いてある通りなのですが、\n1.vagrantファイルに共有設定\n2.ローカル上でgit クローン\n3.vagrant up\n(4.そのままだと書き込み制限がかかってしまってた気がするので、その場合chmodコマンドで権限付与して下さい。)\nこれで、ローカルで好きなエディタで編集した内容がvagrant に反映されます！",
+        "user": "UL4V5EK1P",
+        "ts": "1563491679.006300",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563491679.006300",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1563628149.000800",
+        "reply_users": [
+            "ULD7AUJCX",
+            "UL4V5EK1P"
+        ],
+        "replies": [
+            {
+                "user": "ULD7AUJCX",
+                "ts": "1563526481.000100"
+            },
+            {
+                "user": "UL4V5EK1P",
+                "ts": "1563628149.000800"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1563628149.000800"
+    },
+    {
+        "client_msg_id": "793884F2-01F5-47BC-8A6A-49FB7196D560",
+        "type": "message",
+        "text": "会社に着いてしまったので、DBの操作についても後ほど記載致します。",
+        "user": "UL4V5EK1P",
+        "ts": "1563492270.001000",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "6c78208f-0574-4794-bf90-ce0a94e7d52a",
+        "type": "message",
+        "text": "DBは何かしらのクライアントソフト使う際は下記情報でアクセスできます。",
+        "user": "UL4V5EK1P",
+        "ts": "1563506489.000800",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f49337be-2e38-4201-8a6f-2c2272cd3014",
+        "type": "message",
+        "text": "Host：\n<http:\/\/ec2-174-129-209-212.compute-1.amazonaws.com|ec2-174-129-209-212.compute-1.amazonaws.com>\nDatabase：\nd45ak3rqu6550a\nUser：\nllfulelpqkvgfu\nPort：\n5432\nPassword：\na031604ecc3536cc3764c464a3222d826c65adfede6af0074b8a5a848114df25\nURI：\n<postgres:\/\/llfulelpqkvgfu:a031604ecc3536cc3764c464a3222d826c65adfede6af0074b8a5a848114df25@ec2-174-129-209-212.compute-1.amazonaws.com:5432\/d45ak3rqu6550a>\nHeroku CLI：\nheroku pg:psql postgresql-parallel-17903 --app guarded-caverns-25152",
+        "user": "UL4V5EK1P",
+        "ts": "1563506511.001300",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "8f7ed4da-1060-4c38-b0f0-44bd3e872fe8",
+        "type": "message",
+        "text": "不明点がありましたらなるべく対応致します。\n、、、と申し上げるのも、本日出席できるのか、危いので、、、",
+        "user": "UL4V5EK1P",
+        "ts": "1563506615.002500",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "03b16022-bcc2-404e-a551-35b8912dd46b",
+        "type": "message",
+        "text": "ローカルでサーバー立ち上がらなかった件についてはDB作れば、行けるかな\n<https:\/\/www.papa-programing.jp\/entry\/rails-solidus>",
+        "user": "UL4V5EK1P",
+        "ts": "1563508698.003200",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "４児パパブログ　30才過ぎてプログラミングを学ぶ",
+                "title": "【RailsでECサイト】を作成！【gemはsolidus】で作成！ - ４児パパブログ　30才過ぎてプログラミングを学ぶ",
+                "title_link": "https:\/\/www.papa-programing.jp\/entry\/rails-solidus",
+                "text": "ここ最近Railsで本当は何を作りたいかを自問していました。ただ闇雲にRuby On Railsを使うよりも、自分にとって有意義なプロダクトを作りたいなと。 そこでRuby On Railsで作りたいなと思うのは、まず先にECサイト。これを作らないと今の自分の正直なところを抜け出せないなと実感してきました。Ruby on RailsでECサイトは難しいと言われがちかもしれませんが、実際にあるのも事実なので、ぜひ作ってみたいと心に決めていました。 次に作りたいと思っているのは、フィリピン出身である為、少しでも日本とフィリピンの架け橋になれたらと思い、二つの国を結ぶコミュニティサイトを作っていきま…",
+                "fallback": "４児パパブログ　30才過ぎてプログラミングを学ぶ: 【RailsでECサイト】を作成！【gemはsolidus】で作成！ - ４児パパブログ　30才過ぎてプログラミングを学ぶ",
+                "image_url": "https:\/\/cdn-ak.f.st-hatena.com\/images\/fotolife\/h\/hitoiws\/20170826\/20170826131153.png",
+                "ts": 1503734700,
+                "from_url": "https:\/\/www.papa-programing.jp\/entry\/rails-solidus",
+                "image_width": 400,
+                "image_height": 250,
+                "image_bytes": 297062,
+                "service_icon": "https:\/\/cdn.image.st-hatena.com\/image\/apple_touch_icon\/83940602fb02747a2c8a063428cdb0997c24a2b3\/version=1\/https%3A%2F%2Fcdn.user.blog.st-hatena.com%2Fcustom_blog_icon%2F112271353%2F1514246830624160",
+                "id": 1,
+                "original_url": "https:\/\/www.papa-programing.jp\/entry\/rails-solidus"
+            }
+        ],
+        "thread_ts": "1563508698.003200",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1563628239.001300",
+        "reply_users": [
+            "UL000FESX",
+            "UL4V5EK1P"
+        ],
+        "replies": [
+            {
+                "user": "UL000FESX",
+                "ts": "1563509223.003400"
+            },
+            {
+                "user": "UL4V5EK1P",
+                "ts": "1563628239.001300"
+            }
+        ],
+        "subscribed": true,
+        "last_read": "1563628239.001300"
+    },
+    {
+        "client_msg_id": "00531208-aab8-48e3-9708-4201ae1227ba",
+        "type": "message",
+        "text": "&gt;DBを作る\n.xlsxをインポートするとか、コピー＆ペースト手入力するとかできますかねー？セコい手ですが。",
+        "user": "UL000FESX",
+        "ts": "1563509223.003400",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "99e045dde6bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-20\/700252230532_99e045dde6bc9c9ce82f_72.jpg",
+            "first_name": "川村　琢也",
+            "real_name": "川村　琢也",
+            "display_name": "川村　琢也",
+            "team": "TLARLB0A0",
+            "name": "z19037tk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563508698.003200",
+        "parent_user_id": "UL4V5EK1P"
+    }
+]

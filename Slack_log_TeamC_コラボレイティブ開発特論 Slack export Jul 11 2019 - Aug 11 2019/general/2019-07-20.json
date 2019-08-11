@@ -1,0 +1,190 @@
+[
+    {
+        "client_msg_id": "38fd1676-d764-4348-8492-fb397acd195b",
+        "type": "message",
+        "text": "さきほどはありがとうございました。加藤さんに先週展開いただいたpotepanecアプリ（下記URL）のインストールについて、\nruby版数の問題は解消し、mySQLのインストールの問題解決中です。また夜間の作業で、無事終えましたらまたお知らせします。\n<https:\/\/github.com\/kodaionodera\/potepanec>\n＜rails_appとは異なるインストール部分(途中経過のためご参考）＞\n・potepanecでの指定版数に合わせ、gem install rails -v5.2.1で、railsをまずインストール　⇒　git　clone\n・Gemlock指定のbundle版数が最も古いため、そちらに合わせsudo gem install bundler -v 1.17.1で、bundleをインストール\n・bundle　installで、mySQLのインストールで対処中。。。",
+        "user": "ULD7AUJCX",
+        "ts": "1563610142.008800",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "kodaionodera\/potepanec",
+                "title_link": "https:\/\/github.com\/kodaionodera\/potepanec",
+                "text": "SolidusというGemを用いてECサイトの構築を行いました。. Contribute to kodaionodera\/potepanec development by creating an account on GitHub.",
+                "fallback": "GitHub: kodaionodera\/potepanec",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/43128284?s=400&v=4",
+                "from_url": "https:\/\/github.com\/kodaionodera\/potepanec",
+                "thumb_width": 400,
+                "thumb_height": 400,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/kodaionodera\/potepanec"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0c585867-8749-46be-8f49-ee976c784596",
+        "type": "message",
+        "text": "Norimatsu様\nお疲れ様です。多々ありがとうございます。\nすごいです！\nこちらも「売り物」みつくろいますね。\n皆様どうぞよろしくおねがいいたします。\nｐｓ\n気候超不順のおり、皆様ご自愛くださいませ。",
+        "user": "UL000FESX",
+        "ts": "1563611707.006400",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "99e045dde6bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-20\/700252230532_99e045dde6bc9c9ce82f_72.jpg",
+            "first_name": "川村　琢也",
+            "real_name": "川村　琢也",
+            "display_name": "川村　琢也",
+            "team": "TLARLB0A0",
+            "name": "z19037tk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4cbc56a4-fe4a-4eae-9db6-8055acd25694",
+        "type": "message",
+        "text": "返事遅くなってすいません。私は一旦抜けてから実行していました！",
+        "user": "UL4V5EK1P",
+        "ts": "1563628149.000800",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563491679.006300",
+        "parent_user_id": "UL4V5EK1P"
+    },
+    {
+        "client_msg_id": "e4a1d248-c4e6-468a-95a1-d0cbd343fe99",
+        "type": "message",
+        "text": "お疲れ様です。出張勤務なうです。本日参加出来ず申し訳ありません。potepanecでいく方向で決定したんですね！",
+        "user": "UL4V5EK1P",
+        "ts": "1563628208.001200",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b22173cd-6a01-4eba-a88c-f22b42e60a96",
+        "type": "message",
+        "text": "コピペで手入力はできるはずですよ！",
+        "user": "UL4V5EK1P",
+        "ts": "1563628239.001300",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563508698.003200",
+        "parent_user_id": "UL4V5EK1P"
+    },
+    {
+        "client_msg_id": "11bf570d-74c4-43ff-a59d-fe0ccfa10520",
+        "type": "message",
+        "text": "P.S.\n私も天気および仕事の影響で少し体調を崩しました。皆様もご自愛ください。",
+        "user": "UL4V5EK1P",
+        "ts": "1563628395.002700",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "61d4b42a-8d11-4f3d-8923-9f23031305e8",
+        "type": "message",
+        "text": "皆さまお疲れ様です。加藤さんは週末も勤務ということで大変ですね。\nなんとか、potepanecでrails　serverが立ち上がるところまで行きましたが、\nブラウザ側で、Mysql2::Error::ConnectionErrorのエラー対処中です。（完了しましたら展開いたします。）\n先生からも、現時点でテンプレートアプリに手を入れられる段階に入っていなければ、\n他の手段（一から作るとか？）をそろそろ考えた方が良いという助言があり、\n次の有力候補テンプレートのpotepanecを週末迄にも立ち上げて見てみようという次第です。",
+        "user": "ULD7AUJCX",
+        "ts": "1563661569.012200",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d2d4158c-13c2-467b-ad37-56d8a642d0f8",
+        "type": "message",
+        "text": "皆様お疲れ様です。\n＞加藤さま\n週末勤務お疲れ様です。本業、よい結果を。\n＞Norimatsuさま\n環境構築、たいへんありがとうございます。\n緊急ブレークスルーパワー、強力・すごいです！\n次々いきたいところ、経過の公開も。\nそれこそgit - githubみたいですね。\n昼夜痛み入ります。\n＞チームＣ全員で\nなにか、動くものを。やりましょう！",
+        "user": "UL000FESX",
+        "ts": "1563673667.014200",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "99e045dde6bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-20\/700252230532_99e045dde6bc9c9ce82f_72.jpg",
+            "first_name": "川村　琢也",
+            "real_name": "川村　琢也",
+            "display_name": "川村　琢也",
+            "team": "TLARLB0A0",
+            "name": "z19037tk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

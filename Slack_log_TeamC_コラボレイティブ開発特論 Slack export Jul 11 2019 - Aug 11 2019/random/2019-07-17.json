@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "5DC95983-4F67-4B0C-B7A3-B40B16E2C999",
+        "type": "message",
+        "text": "今日も行けそうにありません。先にどうぞ進めててください。",
+        "user": "ULD79PWT1",
+        "ts": "1563356796.001600",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g6f1d83538b9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6f1d83538b9f17d785ece1304c8e5bea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "sashida",
+            "display_name": "sashida",
+            "team": "TLARLB0A0",
+            "name": "a1917ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

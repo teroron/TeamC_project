@@ -1,0 +1,72 @@
+[
+    {
+        "type": "message",
+        "text": "よめないかもですが・・・",
+        "files": [
+            {
+                "id": "FL5N1MULT",
+                "created": 1563360077,
+                "timestamp": 1563360077,
+                "name": "2019071719381100.jpg",
+                "title": "2019071719381100.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UL000FESX",
+                "editable": false,
+                "size": 453710,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/TLARLB0A0-FL5N1MULT\/2019071719381100.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/TLARLB0A0-FL5N1MULT\/download\/2019071719381100.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FL5N1MULT-e423bb7fa5\/2019071719381100_64.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FL5N1MULT-e423bb7fa5\/2019071719381100_80.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FL5N1MULT-e423bb7fa5\/2019071719381100_360.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_360_w": 360,
+                "thumb_360_h": 180,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FL5N1MULT-e423bb7fa5\/2019071719381100_480.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_480_w": 480,
+                "thumb_480_h": 240,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FL5N1MULT-e423bb7fa5\/2019071719381100_160.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FL5N1MULT-e423bb7fa5\/2019071719381100_720.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_720_w": 720,
+                "thumb_720_h": 360,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FL5N1MULT-e423bb7fa5\/2019071719381100_800.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_800_w": 800,
+                "thumb_800_h": 400,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FL5N1MULT-e423bb7fa5\/2019071719381100_960.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_960_w": 960,
+                "thumb_960_h": 480,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/TLARLB0A0-FL5N1MULT-e423bb7fa5\/2019071719381100_1024.jpg?t=xoxe-690870374340-722951327365-722944854704-4ea368eb625d98ef5422ec81fdec06eb",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 512,
+                "image_exif_rotation": 1,
+                "original_w": 2304,
+                "original_h": 1152,
+                "permalink": "https:\/\/teamteroron.slack.com\/files\/UL000FESX\/FL5N1MULT\/2019071719381100.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/TLARLB0A0-FL5N1MULT-c91d615a73",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UL000FESX",
+        "display_as_bot": false,
+        "ts": "1563360081.000400",
+        "client_msg_id": "7038ed4b-1188-4582-bb07-41705ec4937f",
+        "reactions": [
+            {
+                "name": "star-struck",
+                "users": [
+                    "UL4V5EK1P"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

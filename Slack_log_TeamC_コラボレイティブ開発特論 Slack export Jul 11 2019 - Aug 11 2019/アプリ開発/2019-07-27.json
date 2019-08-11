@@ -1,0 +1,48 @@
+[
+    {
+        "client_msg_id": "09e05611-4503-4f11-8153-133a7f3d5d4b",
+        "type": "message",
+        "text": "！！すごい",
+        "user": "UL000FESX",
+        "ts": "1564212309.002100",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "99e045dde6bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-20\/700252230532_99e045dde6bc9c9ce82f_72.jpg",
+            "first_name": "川村　琢也",
+            "real_name": "川村　琢也",
+            "display_name": "川村　琢也",
+            "team": "TLARLB0A0",
+            "name": "z19037tk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7e13cd89-deaa-41cc-a7da-150fc4e1277a",
+        "type": "message",
+        "text": "備忘２ コントローラー作成等\n\nrails generate controller comment new\n\nrails generate model comment  user_name:string comment:string\n（idを自分で定義してしまうとエラーになって修正がめんどくさい。。）→branchを削除して解決させました。git branch -D、git stash -u、git stash drop\n\nrails db:migrate",
+        "user": "UL4V5EK1P",
+        "ts": "1564216132.003500",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UL4V5EK1P",
+            "ts": "1564217392.000000"
+        }
+    }
+]
