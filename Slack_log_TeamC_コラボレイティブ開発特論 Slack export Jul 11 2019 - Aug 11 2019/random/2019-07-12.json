@@ -1,0 +1,104 @@
+[
+    {
+        "client_msg_id": "23fd73d1-b0cb-494c-b761-cd744f4e7476",
+        "type": "message",
+        "text": "指田さん、みんなで待ってまーす",
+        "user": "UL4V5EK1P",
+        "ts": "1562934641.000300",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "397DEAEB-7C99-4139-8A10-0181E46BC3AB",
+        "type": "message",
+        "text": "お疲れ様です",
+        "user": "ULD79PWT1",
+        "ts": "1562935563.000600",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g6f1d83538b9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6f1d83538b9f17d785ece1304c8e5bea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "sashida",
+            "display_name": "sashida",
+            "team": "TLARLB0A0",
+            "name": "a1917ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "34ef999d-8aa6-4111-b760-cdfec56df9e9",
+        "type": "message",
+        "text": "館山さんに情報連携しておきます。",
+        "user": "UL4V5EK1P",
+        "ts": "1562938481.000400",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "2564456b-df78-49ba-9b7a-1ad639aef3ce",
+        "type": "message",
+        "text": "<https:\/\/tabijikan.jp\/sado-city-souvenirs-31676\/>",
+        "user": "UL4V5EK1P",
+        "ts": "1562938485.000600",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "旅時間 - 旅のようなステキなひとときを。",
+                "title": "もらって嬉しい！佐渡でおすすめの人気お土産ランキングTOP10 | 旅時間",
+                "title_link": "https:\/\/tabijikan.jp\/sado-city-souvenirs-31676\/",
+                "text": "新潟県の北西沖合いに位置する日本海最大の島「佐渡」。佐渡金山やトキの森公園など見どころが多い佐渡には、佐渡の伝統銘菓から、佐渡の名産品を使用した人気のスイーツや佐渡の特産品までバラエティ豊かなお土産が揃っています。今回は、佐渡でおすすめの人気お土産をランキング形式で10個ご紹介します。",
+                "fallback": "旅時間 - 旅のようなステキなひとときを。: もらって嬉しい！佐渡でおすすめの人気お土産ランキングTOP10 | 旅時間",
+                "image_url": "https:\/\/i2.wp.com\/tabijikan.jp\/wp-content\/uploads\/2017\/03\/20170309-956-11-2-sado-omiyage.jpg?fit=702%2C385&ssl=1",
+                "image_width": 456,
+                "image_height": 250,
+                "ts": 1489031613,
+                "from_url": "https:\/\/tabijikan.jp\/sado-city-souvenirs-31676\/",
+                "image_bytes": 71957,
+                "service_icon": "https:\/\/tabijikan.jp\/wp-content\/uploads\/2014\/08\/icon1.png",
+                "id": 1,
+                "original_url": "https:\/\/tabijikan.jp\/sado-city-souvenirs-31676\/"
+            }
+        ]
+    }
+]

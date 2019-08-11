@@ -1,0 +1,130 @@
+[
+    {
+        "client_msg_id": "26201f62-4c08-41f1-b0e2-d075d9b14b28",
+        "type": "message",
+        "text": "教えてください。\n3.vagrant upは、2.のcloneを行った後、一旦仮想環境を抜けて実行していましたか？",
+        "user": "ULD7AUJCX",
+        "ts": "1563526481.000100",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1563491679.006300",
+        "parent_user_id": "UL4V5EK1P"
+    },
+    {
+        "client_msg_id": "9ad3c3b0-9fde-4e75-b18b-129bde97ed1f",
+        "type": "message",
+        "text": "Local環境で、DBが立ち上がらないのは、下記のような現象です。\nrails serverコマンド実行後、local serverを見に行くと、\nTeamC_project_development\nのDBが見つからないということで、エラーが出ます。\n該当名称のｄｂを作成するものの、エラーがなくならないですね。何がてろろんさんの環境と違うのでしょうかね。",
+        "user": "ULD7AUJCX",
+        "ts": "1563528037.005200",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "F8ED036B-86D2-4C1E-82C0-427DB47C7C1D",
+        "type": "message",
+        "text": "本日参加出来ずすいません。\nまだ仕事です。終わりましたらキャッチアップします。",
+        "user": "UL4V5EK1P",
+        "ts": "1563535929.006200",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "93d5bf3a-90f4-4d8a-8013-e5daee9d941f",
+        "type": "message",
+        "text": "加藤さん、指田さん\n遅くまでお疲れ様です。川村さんが貼り付けてくれたホワイトボードにもありますが、\n本日先生の説明で、８月２日成果発表、今日入れて四回の準備期間ということで、\n何とか間に合わせるために、今日の授業時間中で、明日全員で集まろうという話になりました。\n明日は１限迄の方、４限以降の方もいらっしゃるので、間を取って12:30からということにさせて頂きました。\nご都合いかがでしょうか？",
+        "user": "ULD7AUJCX",
+        "ts": "1563543130.010000",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "cf1e37b8-648b-4132-9028-bc8b80f6ea16",
+        "type": "message",
+        "text": "皆さま\n会議室257、258、351-bは、明日PBLの集まりのため日中は全て埋まっているようでした。\n図書館しかないですね。。",
+        "user": "ULD7AUJCX",
+        "ts": "1563545548.012500",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "667bb2ea-f83e-4d5e-a4fb-69ab318b334a",
+        "type": "message",
+        "text": "川村です\nNorimatsuさん、本日のまとめ・会場チェックありがとうございました。土曜日１２：３０図書館集合いたします。",
+        "user": "UL000FESX",
+        "ts": "1563546413.017200",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "99e045dde6bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-20\/700252230532_99e045dde6bc9c9ce82f_72.jpg",
+            "first_name": "川村　琢也",
+            "real_name": "川村　琢也",
+            "display_name": "川村　琢也",
+            "team": "TLARLB0A0",
+            "name": "z19037tk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

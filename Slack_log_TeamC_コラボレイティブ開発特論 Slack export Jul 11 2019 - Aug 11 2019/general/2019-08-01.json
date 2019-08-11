@@ -1,0 +1,149 @@
+[
+    {
+        "client_msg_id": "2B28F8C5-E797-4D3E-BBB8-05B7D1133874",
+        "type": "message",
+        "text": "ネットワーク障害の復旧作業で、本当に再受験になるとは、、、\n今日図書館でやりますか？",
+        "user": "ULATBB8UU",
+        "ts": "1564644635.007100",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "gff752e34c77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ff752e34c7729ef12ba2a66d9cddb9ea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "a1923ht",
+            "display_name": "a1923ht",
+            "team": "TLARLB0A0",
+            "name": "a1923ht",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "665ced44-5858-4578-aa32-3e4a44714513",
+        "type": "message",
+        "text": "かえって好都合でしたね笑\nやりましょう、、、",
+        "user": "UL4V5EK1P",
+        "ts": "1564644682.007700",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "3FBDFB20-3576-4C2D-8E3A-05F0B79E0F82",
+        "type": "message",
+        "text": "いや、1日ちょっと延びた所でなんですけど、、、苦笑\nちょっと何時に終わるか目処がたってないので、終わり次第向かいます！",
+        "user": "ULATBB8UU",
+        "ts": "1564645026.009900",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "gff752e34c77",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/ff752e34c7729ef12ba2a66d9cddb9ea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "",
+            "real_name": "a1923ht",
+            "display_name": "a1923ht",
+            "team": "TLARLB0A0",
+            "name": "a1923ht",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "400c61ec-b686-486c-8df0-222ff28f9595",
+        "type": "message",
+        "text": "僕も試験終わり次第行きます。目標３０分で終わらせます！",
+        "user": "UL4V5EK1P",
+        "ts": "1564651443.010600",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bc22a123-2373-4d31-a3e1-3c07f2f74a98",
+        "type": "message",
+        "text": "かわむらも行きます！まだ事務所。",
+        "user": "UL000FESX",
+        "ts": "1564652063.011100",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "99e045dde6bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-20\/700252230532_99e045dde6bc9c9ce82f_72.jpg",
+            "first_name": "川村　琢也",
+            "real_name": "川村　琢也",
+            "display_name": "川村　琢也",
+            "team": "TLARLB0A0",
+            "name": "z19037tk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e825d72b-2cb3-4c6d-b606-7ae944ec1d23",
+        "type": "message",
+        "text": "昨夜、ローカル環境で、commentsテーブルと共存させても正常動作となりました。\n結局仕事の都合がつかず、午前⇒午後の作業となりましたが、\nhtml上の投稿画面とDBの連携を、最後の悪あがきでトライしてみます。",
+        "user": "ULD7AUJCX",
+        "ts": "1564713764.004700",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1034aabe-ad0a-44af-9c5f-e874b124f2c3",
+        "type": "message",
+        "text": "ノリノリさんすごいですね！！！ぜひ、悪足掻きお願いいたします！！",
+        "user": "UL4V5EK1P",
+        "ts": "1564717713.000500",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

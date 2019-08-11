@@ -1,0 +1,23 @@
+[
+    {
+        "client_msg_id": "C773A8DC-B5EC-46CC-90E2-0EE249F04E16",
+        "type": "message",
+        "text": "ハートイン予約しました笑",
+        "user": "UL4V5EK1P",
+        "ts": "1564670208.000400",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

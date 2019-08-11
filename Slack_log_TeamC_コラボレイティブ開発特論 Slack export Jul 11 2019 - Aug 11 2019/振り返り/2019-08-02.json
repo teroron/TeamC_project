@@ -1,0 +1,30 @@
+[
+    {
+        "user": "UL4V5EK1P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1564736387.000200",
+        "text": "<@UL4V5EK1P>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "6F763600-0CC3-4BA8-B9B3-C5A31013C2FB",
+        "type": "message",
+        "text": "おわたフレームワークも発表するんでしたっけ",
+        "user": "UL4V5EK1P",
+        "ts": "1564736418.000800",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

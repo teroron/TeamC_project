@@ -1,0 +1,25 @@
+[
+    {
+        "client_msg_id": "67a438df-b6fc-4e7d-800b-f3012e5ba931",
+        "type": "message",
+        "text": "ありがとうございました。ローカルでサイトが確認できました。\n頑張ります！！！",
+        "user": "ULD7AUJCX",
+        "ts": "1564484717.000400",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g0a39d487d61",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/0a39d487d61c7e92bb857400fc7bce70.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0005-72.png",
+            "first_name": "",
+            "real_name": "Noriko Norimatsu",
+            "display_name": "Noriko Norimatsu",
+            "team": "TLARLB0A0",
+            "name": "a18z3nn",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "thread_ts": "1564409714.000700",
+        "parent_user_id": "UL4V5EK1P"
+    }
+]

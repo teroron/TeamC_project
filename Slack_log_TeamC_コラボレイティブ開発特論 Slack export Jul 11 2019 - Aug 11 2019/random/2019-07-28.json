@@ -1,0 +1,65 @@
+[
+    {
+        "client_msg_id": "0ca34745-c4a0-4cb5-8415-84c3e9c4e2d3",
+        "type": "message",
+        "text": "各課題、要件の半分くらいしか実装できてないけどフィニッシュしたい。。。。",
+        "user": "UL4V5EK1P",
+        "ts": "1564303726.001900",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "89c9de92-6376-467a-aab2-cab398e94c47",
+        "type": "message",
+        "text": "お父さんは疲れ果てていますです、もうちょっとだけ。\nハイ。",
+        "user": "UL000FESX",
+        "ts": "1564315954.001700",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "99e045dde6bc",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2019-07-20\/700252230532_99e045dde6bc9c9ce82f_72.jpg",
+            "first_name": "川村　琢也",
+            "real_name": "川村　琢也",
+            "display_name": "川村　琢也",
+            "team": "TLARLB0A0",
+            "name": "z19037tk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "101ecdc4-8c95-4320-85cb-c24069f4451f",
+        "type": "message",
+        "text": "疲れ果てました。フィニッシュ。。。",
+        "user": "UL4V5EK1P",
+        "ts": "1564327525.000900",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

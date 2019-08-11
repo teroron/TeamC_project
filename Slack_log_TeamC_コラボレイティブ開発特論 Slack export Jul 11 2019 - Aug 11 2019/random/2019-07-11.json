@@ -1,0 +1,37 @@
+[
+    {
+        "user": "UL4V5EK1P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562839041.000200",
+        "text": "<@UL4V5EK1P>さんがチャンネルに参加しました"
+    },
+    {
+        "user": "ULD79PWT1",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562843128.000200",
+        "text": "<@ULD79PWT1>さんがチャンネルに参加しました"
+    },
+    {
+        "user": "ULD7AUJCX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562843205.000400",
+        "text": "<@ULD7AUJCX>さんがチャンネルに参加しました"
+    },
+    {
+        "user": "ULATBB8UU",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562843205.000600",
+        "text": "<@ULATBB8UU>さんがチャンネルに参加しました"
+    },
+    {
+        "user": "UL000FESX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562843205.000800",
+        "text": "<@UL000FESX>さんがチャンネルに参加しました"
+    }
+]

@@ -1,0 +1,184 @@
+[
+    {
+        "user": "UL4V5EK1P",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562839042.000200",
+        "text": "<@UL4V5EK1P>さんがチャンネルに参加しました"
+    },
+    {
+        "user": "UL4V5EK1P",
+        "type": "message",
+        "subtype": "channel_name",
+        "ts": "1562839275.000300",
+        "text": "<@UL4V5EK1P>さんがチャンネル名を「コラボレイティブ開発特論」から「アプリ開発」に変更しました。",
+        "old_name": "コラボレイティブ開発特論",
+        "name": "アプリ開発"
+    },
+    {
+        "user": "ULD79PWT1",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562843128.000200",
+        "text": "<@ULD79PWT1>さんがチャンネルに参加しました"
+    },
+    {
+        "user": "ULD7AUJCX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562843205.000400",
+        "text": "<@ULD7AUJCX>さんがチャンネルに参加しました"
+    },
+    {
+        "user": "ULATBB8UU",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562843205.000600",
+        "text": "<@ULATBB8UU>さんがチャンネルに参加しました"
+    },
+    {
+        "user": "UL000FESX",
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1562843205.000800",
+        "text": "<@UL000FESX>さんがチャンネルに参加しました"
+    },
+    {
+        "client_msg_id": "87618549-c8e5-41d8-bf5a-4e9a853ab198",
+        "type": "message",
+        "text": "githubのissuesだと、ちょっと不便だったので、とりあえずslackにしてみました。",
+        "user": "UL4V5EK1P",
+        "ts": "1562843363.001900",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "f09f3b5c-cd18-4f27-be19-f11ea97f4255",
+        "type": "message",
+        "text": "URLは下記の通りです。\n\nGithub\n<https:\/\/github.com\/teroron\/TeamC_project>\n\nHeroku\n<https:\/\/guarded-caverns-25152.herokuapp.com>\n\nTravis CI\n<https:\/\/travis-ci.org\/teroron\/TeamC_project>",
+        "user": "UL4V5EK1P",
+        "ts": "1562843405.002600",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "GitHub",
+                "title": "teroron\/TeamC_project",
+                "title_link": "https:\/\/github.com\/teroron\/TeamC_project",
+                "text": "Contribute to teroron\/TeamC_project development by creating an account on GitHub.",
+                "fallback": "GitHub: teroron\/TeamC_project",
+                "thumb_url": "https:\/\/avatars1.githubusercontent.com\/u\/50950437?s=400&v=4",
+                "from_url": "https:\/\/github.com\/teroron\/TeamC_project",
+                "thumb_width": 420,
+                "thumb_height": 420,
+                "service_icon": "https:\/\/a.slack-edge.com\/bfaba\/img\/unfurl_icons\/github.png",
+                "id": 1,
+                "original_url": "https:\/\/github.com\/teroron\/TeamC_project"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "289d812f-cd9d-4358-a19c-deacc6b6a931",
+        "type": "message",
+        "text": "評価基準がわからないですが、４回×１．５ｈ→６ｈ＆予習復習\nで一人あたり１日～３日くらいで作れるもの×５人分くらいでしょうか。\nHOMEのページが１つあって、そこから各々のページに飛んで、ご自身の都合で作るとかだとpushするときに影響が少なくて良いかもですね。\nただ、そんなに機能の種類が考えられないので似たようなものを別々で作っちゃっても良いとするかというのと、\n「コラボレイティブ」なので途中で実装が揃わないとできない処理を入れるなど、お互いの干渉は必須な感じもします。",
+        "user": "ULD79PWT1",
+        "ts": "1562844704.003000",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "g6f1d83538b9",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/6f1d83538b9f17d785ece1304c8e5bea.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0003-72.png",
+            "first_name": "",
+            "real_name": "sashida",
+            "display_name": "sashida",
+            "team": "TLARLB0A0",
+            "name": "a1917ms",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "13b7327d-13d7-44aa-932a-0c20e8c5c8dc",
+        "type": "message",
+        "text": "チーム演習の講義なので、チームで一つのアプリを作る必要があると思います〜\nチームコーディングを楽しみましょう！笑",
+        "user": "UL4V5EK1P",
+        "ts": "1562850913.004500",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "348b4842-91cb-4dda-afce-f2497f02fa06",
+        "type": "message",
+        "text": "<https:\/\/ferret-plus.com\/4883>\nここらへんのライブラリで色々できそうです。",
+        "user": "UL4V5EK1P",
+        "ts": "1562851256.005500",
+        "team": "TLARLB0A0",
+        "user_team": "TLARLB0A0",
+        "source_team": "TLARLB0A0",
+        "user_profile": {
+            "avatar_hash": "ga1ab82dfff8",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/a1ab82dfff87bfafe6c3b5661043280a.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2F00b63%2Fimg%2Favatars%2Fava_0012-72.png",
+            "first_name": "加藤りゅーせー",
+            "real_name": "加藤りゅーせー",
+            "display_name": "",
+            "team": "TLARLB0A0",
+            "name": "a1908rk",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "service_name": "ferret [フェレット]",
+                "title": "Ruby on Rails 初心者に贈る絶対に使いたくなるGem15選｜ferret [フェレット]",
+                "title_link": "https:\/\/ferret-plus.com\/4883",
+                "text": "Ruby on Rails（以下、Rails）には、アプリケーションの構築に必要なライブラリが数多くあります。コマンド1つでパッケージをインストールしたり、削除したりできるので非常に便利。 ただ、解説があまり充実していないケースも多く、初心者にとっては使い方に悩むポイントかと思います。本記事では、簡単な解説付きで初心者がまず使ってみたいGemを15個ピックアップしたので参考にしてみてはいかがでしょうか。",
+                "fallback": "ferret [フェレット]: Ruby on Rails 初心者に贈る絶対に使いたくなるGem15選｜ferret [フェレット]",
+                "image_url": "https:\/\/ferret.akamaized.net\/images\/58d3977bfafbd869bc000791\/large.jpg?1490261882",
+                "from_url": "https:\/\/ferret-plus.com\/4883",
+                "image_width": 477,
+                "image_height": 250,
+                "image_bytes": 100947,
+                "service_icon": "https:\/\/ferret.akamaized.net\/assets\/common\/apple-touch-icon-precomposed-85298cf83262266594f1950b0cd2ab8bfea2d31b2fd9390755fd47a7555b5f3c.png",
+                "id": 1,
+                "original_url": "https:\/\/ferret-plus.com\/4883"
+            }
+        ]
+    }
+]
